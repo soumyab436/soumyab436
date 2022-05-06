@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @soumyab436
+- 👀 I’m interested in new technologies.
+- 🌱 I’m currently learning Python, SQL.
+- 📫 How to reach me soumyab436@gmail.com
